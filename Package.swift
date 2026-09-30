@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SuperCheckoutSDK",
-            url: "https://github.com/superpayments/super-checkout-ios-sdk/releases/download/0.2.0/SuperCheckoutSDK.xcframework.zip",
-            checksum: "52395a35dc4c7c46ee5c40d2c4db915d40e67ca948920e9d2f13f5c401c8d3b0"
+            url: "https://github.com/superpayments/super-checkout-ios-sdk/releases/download/0.3.0/SuperCheckoutSDK.xcframework.zip",
+            checksum: "e214ffeb2fa98c559b6ade3f7b980e88eb565e6deb2d99ddc09d1d682954c3b1"
         )
     ]
 )
